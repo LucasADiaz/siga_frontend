@@ -1,5 +1,5 @@
 <template>
-<div class="container" id="login">
+<div class="w3-panel w3-round-xlarge " id="login">
 
     <br>
     <h1>INGRESAR</h1>
@@ -37,7 +37,8 @@ export default {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
+  background-color: rgb(170, 151, 151);
 }
-
+  
 
 </style>
